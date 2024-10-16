@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/in/daniel-olivares/](https://www.linkedin.com/in/daniel-andres-olivares-rodelo-664a862b7/)"><img src="https://img.shields.io/badge/-Daniel%20Olivares-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/daniel-andres-olivares-rodelo-664a862b7/"><img src="https://img.shields.io/badge/-Daniel%20Olivares-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:daolivaresrodelo@gmail.com"><img src="https://img.shields.io/badge/-daolivaresrodelo@gmail.com-54daff?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
 
 </p>

@@ -28,6 +28,12 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
+### Techs
+
+![Git](https://img.shields.io/badge/-Git-ec502c?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-001e36?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">

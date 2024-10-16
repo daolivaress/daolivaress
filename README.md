@@ -37,7 +37,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/daniel-andres-olivares-rodelo-664a862b7/"><img src="https://img.shields.io/badge/-Daniel%20Andres%20Olivares%20Rodelo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:daolivaresrodelo@gmail.com"><img src="https://img.shields.io/badge/-daolivaresrodelo@gmail.com-54daff?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="mailto:daolivaresrodelo@gmail.com"><img src="https://img.shields.io/badge/-daolivaresrodelo@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 <a href="https://www.instagram.com/dxnieel___/"><img src="https://img.shields.io/badge/-@dxnieel___-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
